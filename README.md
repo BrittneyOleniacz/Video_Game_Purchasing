@@ -48,6 +48,9 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 ### Number of Players
 ![Number of Players](Images/players.png)
 
+### Purchase Summary
+![Summary](Images/purchasing_summary.png)
+
 ### Gender Demographics
 ![Gender Demographics](Images/gender_demographics.png)
 
