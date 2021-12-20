@@ -69,7 +69,7 @@ Like many others in its genre, this game is free-to-play, but players are encour
 ![Popular Items](Images/item_popularity.png)
 
 ### Most Profitable Items
-![Profitable items](Images/most_profitable)
+![Profitable items](Images/most_profitable.png)
 
 
 ## Observations and Findings
