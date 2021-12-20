@@ -73,4 +73,6 @@ Like many others in its genre, this game is free-to-play, but players are encour
 
 
 ## Observations and Findings
-
+1. The majority of players are male (84%). 
+2. Most players are between the ages of 20 and 24 years old. 
+3. The most popular items are also the most profitable. 
