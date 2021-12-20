@@ -1,8 +1,7 @@
 # Video Game Purchasing
 
 ## Background
-
-Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
+Like many others in its genre, this game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. Generate a report that breaks down the game's purchasing data into meaningful insights.
 
 ## Methods
 1. Find total Number of Players
